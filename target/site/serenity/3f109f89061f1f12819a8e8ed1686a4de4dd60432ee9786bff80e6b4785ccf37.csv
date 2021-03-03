@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Find new car feature","Finding new cars by brand name Renault","SUCCESS","2021-02-23T23:14:17.728+05:30[Asia/Calcutta]","0.0","0.03"
+"Find new car feature","To find a new car by brand","SUCCESS","2021-02-23T23:14:17.762+05:30[Asia/Calcutta]","0.0","0.03"
+"Find new car feature","To find a new car by budget","SUCCESS","2021-02-23T23:14:17.795+05:30[Asia/Calcutta]","0.0","0.02"
+"Find new car feature","Finding new cars by brand name - parameterized","SUCCESS","2021-02-23T23:14:17.859+05:30[Asia/Calcutta]","0.0","0.19"

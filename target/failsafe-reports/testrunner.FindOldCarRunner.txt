@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: testrunner.FindOldCarRunner
+-------------------------------------------------------------------------------
+Tests run: 29, Failures: 0, Errors: 0, Skipped: 13, Time elapsed: 7.401 s - in testrunner.FindOldCarRunner
